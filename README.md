@@ -1,7 +1,7 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 31/03/2024
-Empresa: Capsule Corp
+Data: 31/03/2024\
+Empresa: Capsule Corp\
 Responsável: Jeanderson Soares da Silva
 
 ## Introdução
@@ -30,7 +30,6 @@ A implementação de ferramentas na empresa Capsule Corp tem como esperado econo
 
 ## Anexos
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
 - https://aws.amazon.com/pt/s3/
 - https://aws.amazon.com/pt/ec2/autoscaling/
 - https://aws.amazon.com/pt/ebs/snapshots/
